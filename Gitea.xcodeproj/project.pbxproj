@@ -34,6 +34,7 @@
 		C2D23BD72B8670F30016EDDC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C2D23BD82B8677080016EDDC /* generate-app-icon.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = "generate-app-icon.sh"; sourceTree = "<group>"; };
 		C2D23BD92B8685210016EDDC /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		C2D23BDA2B868ADE0016EDDC /* Screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				3D7F38531C702A3000818E3E /* Gitea */,
+				C2D23BDA2B868ADE0016EDDC /* Screenshot.png */,
 				C2D23BD82B8677080016EDDC /* generate-app-icon.sh */,
 				C2D23BD72B8670F30016EDDC /* README.md */,
 				C2D23BD92B8685210016EDDC /* LICENSE */,
